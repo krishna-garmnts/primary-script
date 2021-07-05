@@ -1,2 +1,2 @@
 # primary-script
-This is made for Pulliparakunnu
+This is made for Pulliparakunnu/Kalletumkara
